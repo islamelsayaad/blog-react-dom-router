@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "Kirby's Return to Dream Land Deluxe Review",
+      "body": [
+        "There are generally two types of Kirby games: the standard platformers where Kirby copies enemy abilities across easy-to-complete stages, and the more unique adventures that break wildly from that formula.",
+        "Kirby’s Return to Dream Land has been solidly in the former camp since its original release on Wii in 2011, making its Deluxe rerelease on Switch recognizable in more ways than one. Strong platforming fundamentals, creative late-game level design, and some worthwhile new content still make it worth revisiting, but it’s a more appealing package for newcomers than those who have already gone on the original adventure. Like those aforementioned traditional Kirby platformers, the first few worlds in Kirby’s Return to Dreamland Deluxe are so remarkably unchallenging that they strip away any sense of resistance and, frankly, fun to be had.",
+        "Flashy Super Abilities, which allow Kirby to do things like roll enemies up into a giant snowball or slash a massive sword across the screen, often start as almost automated sections that require very little player input. It’s important to have games that welcome newcomers, but it takes at least a couple of hours before this adventure begins to feel even remotely interesting, regardless of if you’re playing solo or with friends."
+      ],
+      "author": "Colin Stevens",
+      "thumbnail": "https://assets-prd.ignimgs.com/2023/02/22/kirby-blogroll-1677029467434.jpg?crop=16%3A9&width=282",
+      "poster": "https://assets-prd.ignimgs.com/2023/02/22/kirby-yt-1677030862047.jpg",
+      "id": 1
+    },
+    {
+      "title": "Company of Heroes 3 Review - Single-Player Campaigns",
+      "body": [
+        "Writing this review hurt my feelings. The Company of Heroes series is near and dear to my heart – all three of them are real-time strategy games that cut to the core of the genre, focusing on overarching strategic decisions coupled with tactical troop movements and a battlefield that truly matters. I'm pleased to say that Company of Heroes 3 implements those series fundamentals quite well in a gentle remix that brings the series to diverse theaters of World War 2 that it hadn't touched yet.",
+        "What I'm very displeased about is that the ambitious Italian campaign mode is incredibly disappointing. While individual missions and scenarios within the strategic sandbox are strong and even thrilling at times, almost every feature on the strategic map doesn't work, either because it's bugged or because it's such middle-of-the-road game design that it's simply boring. There are actually two single-player campaigns in CoH3. The larger one is the Italian Campaign, a broad, turn-based strategic mode on a large map of central and southern Italy that has you capture territory town by town, and took me about 25 hours to complete the first time around.",
+        "It has theoretically complex systems in which your armies – called companies (with heroes in them) – capture towns and ports using deployable air power and naval fleet movements, and build emplacements to defend territory or provide offensive bonuses in battles. It's all very visually similar to the setup of the Total War series."
+      ],
+      "author": "Jon Bolding",
+      "thumbnail": "https://assets-prd.ignimgs.com/2023/02/20/coh3-background-overlay-0-1676910729324.jpg?crop=16%3A9&width=282",
+      "poster": "https://assets-prd.ignimgs.com/2023/02/20/company-of-heroes-review-yt-a-1676910902278.jpg",
+      "id": 2
+    },
+    {
+      "title": "Metroid Prime Remastered Review",
+      "body": [
+        "In the two decades since the original release of Metroid Prime I’ve had no problem giving it my highest recommendation, along with one nagging reservation: The controls take some getting used to. Thanks to the outstanding updates in Metroid Prime Remastered, I can finally drop that caveat: Metroid Prime Remastered is one of the best first-person shooters ever made, full stop. This updated version goes above and beyond the typical coat-of-paint remaster by adding modern controls along with fabulously improved models and textures – it’s a perfect example of how to both honor a lauded classic and bring it up to code.",
+        "Replaying it feels almost entirely new, evoking that same fresh feeling as the Dead Space remake or Resident Evil 2 and 3 despite not actually being such a drastic remake itself – and it’s a far cry from the disappointing treatment that the Super Mario 3D All-Stars collection on Switch received. What makes Metroid Prime obviously different from other legendary FPS campaigns like Halo, Half-Life, Titanfall 2, and Wolfenstein is its solitary nature. There’s not a single conversation to be had, no radio or AI assistant voices chattering in your ear, and, just for the record, no multiplayer.",
+        "This is a game about a lone hunter – Samus Aran – on a hostile world, and Prime revels in that setup. Like other great Metroid games (e.g. Super Metroid, Metroid: Zero Mission, and the most recent Metroid Dread), Metroid Prime’s spareness in its storytelling makes for a uniquely moody magnificence. It’s more horror than space opera, no doubt owing to Metroid’s key influence, Ridley Scott’s 1979 masterpiece movie, Alien."
+      ],
+      "author": "Samuel Claiborn",
+      "thumbnail": "https://assets-prd.ignimgs.com/2023/02/17/metroidprimeremastered-blogroll-2-1676667173405.jpg?crop=16%3A9&width=282",
+      "poster": "https://assets-prd.ignimgs.com/2023/02/09/metroid-blogroll-1675914071770.jpg",
+      "id": 3
+    }
+  ]
+}
