@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "concurrently --kill-others \"json-server --watch ./data/db.json --port 8000\" \"npm run start-react\"",
-    "build": "concurrently --kill-others \"json-server --watch ./data/db.json --port 8000\" \"react-scripts build-react\"",
+    "build": "concurrently --kill-others \"json-server --watch ./data/db.json --port 8000\" \"npm run build-react\"",
     "start-react": "react-scripts start",
     "build-react": "react-scripts build"
   },
